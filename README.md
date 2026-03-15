@@ -1,5 +1,8 @@
 <div align="center">
 
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Biswajit%20Das&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20.NET%20%26%20React%20Enthusiast&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
+
 <!-- Typing SVG -->
 <a href="https://github.com/Biswajitdas2006">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Biswajit+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;.NET+8+%2B+React+%2F+Vite+Stack;Building+real-world+products+%F0%9F%94%A5;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
@@ -132,5 +135,5 @@ const biswajit = {
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer"/>
 </div>
