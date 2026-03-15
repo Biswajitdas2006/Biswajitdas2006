@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=200&amp;section=header&amp;text=Biswajit%20Das&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20.NET%20%26%20React%20Enthusiast&amp;descAlignY=58&amp;descSize=18&amp;animation=fadeIn" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Biswajit%20Das&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20.NET%20%26%20React%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn)
 
 <!-- Typing SVG -->
 <a href="https://github.com/Biswajitdas2006">
@@ -20,6 +19,7 @@
 
 ```ts
 const biswajit = {
+  location    : "Kolkata, West Bengal 🇮🇳",
   role        : "Full Stack Developer",
   stack       : {
     backend   : [".NET 8", "C#", "ASP.NET Core", "REST APIs"],
@@ -103,6 +103,13 @@ const biswajit = {
 </div>
 
 ---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitdas2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
+
 ---
 
 ## 📈 Contribution Graph
@@ -135,5 +142,5 @@ const biswajit = {
 ---
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:24243e,50:302b63,100:0f0c29&amp;height=120&amp;section=footer"/>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 </div>
