@@ -1,59 +1,13 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Biswajit%20Das&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20.NET%20%26%20React%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn)
-
-<!-- Typing SVG -->
-<a href="https://github.com/Biswajitdas2006">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Biswajit+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;.NET+8+%2B+React+%2F+Vite+Stack;Building+real-world+products+%F0%9F%94%A5;Always+learning%2C+always+shipping+%E2%9C%A8" alt="Typing SVG" />
-</a>
-
-<br/>
-
-
-
-</div>
+# 👋 Hi, I'm Biswajit Das
+### Full Stack Developer · .NET 8 · React · Vite
 
 ---
 
-## 🧬 About Me
-
-```ts
-const biswajit = {
-  location    : "Kolkata, West Bengal 🇮🇳",
-  role        : "Full Stack Developer",
-  stack       : {
-    backend   : [".NET 8", "C#", "ASP.NET Core", "REST APIs"],
-    frontend  : ["React", "Vite", "TypeScript", "TailwindCSS"],
-    database  : ["PostgreSQL", "Supabase", "Entity Framework Core"],
-    devops    : ["Render", "Vercel", "GitHub Actions"],
-  },
-  currentFocus  : "Deploying production-grade full-stack apps",
-  funFact       : "I treat every bug as a puzzle 🧩 — and I love puzzles.",
-};
-```
-
----
-
-## 🚀 Featured Project — InternHub
-
-<div align="center">
-
-> 🎓 **A full-stack internship management system** — built from scratch, deployed to production.
-
-| Layer | Tech |
-|---|---|
-| **Backend** | .NET 8, ASP.NET Core, Entity Framework Core |
-| **Frontend** | React + Vite |
-| **Database** | PostgreSQL via Supabase |
-| **Hosting** | Render (API) · Vercel (Frontend) |
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;.NET+8+%2B+React+%2F+Vite+Stack;Building+real-world+products+%F0%9F%94%A5;Always+learning%2C+always+shipping+%E2%9C%A8)](https://github.com/Biswajitdas2006)
 
 </div>
-
-**What it does:**
-- 🏢 Manage interns, companies, and internship listings end-to-end
-- 🔐 JWT-based authentication with BCrypt-secured passwords
-- 📊 9 fully relational database tables with EF Core migrations
-- ⚡ Production-deployed with live backend + persistent cloud DB
 
 ---
 
@@ -70,7 +24,7 @@ const biswajit = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🗄️ Databases & Backend
+### 🗄️ Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -91,6 +45,43 @@ const biswajit = {
 
 ---
 
+## 🧬 About Me
+
+```ts
+const biswajit = {
+  role        : "Full Stack Developer",
+  stack       : {
+    backend   : [".NET 8", "C#", "ASP.NET Core", "REST APIs"],
+    frontend  : ["React", "Vite", "TypeScript", "TailwindCSS"],
+    database  : ["PostgreSQL", "MySQL", "MSSQL", "MongoDB", "Supabase"],
+    devops    : ["Render", "Vercel", "Firebase", "GitHub Actions"],
+  },
+  currentFocus  : "Deploying production-grade full-stack apps",
+  funFact       : "I treat every bug as a puzzle 🧩 — and I love puzzles.",
+};
+```
+
+---
+
+## 🚀 Featured Project — InternHub
+
+> 🎓 **A full-stack internship management system** — built from scratch, deployed to production.
+
+| Layer | Tech |
+|---|---|
+| **Backend** | .NET 8, ASP.NET Core, Entity Framework Core |
+| **Frontend** | React + Vite |
+| **Database** | PostgreSQL via Supabase |
+| **Hosting** | Render (API) · Vercel (Frontend) |
+
+**What it does:**
+- 🏢 Manage interns, companies, and internship listings end-to-end
+- 🔐 JWT-based authentication with BCrypt-secured passwords
+- 📊 9 fully relational database tables with EF Core migrations
+- ⚡ Production-deployed with live backend + persistent cloud DB
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -103,20 +94,6 @@ const biswajit = {
 </div>
 
 ---
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitdas2006&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitdas2006&bg_color=0f0c29&color=A78BFA&line=7c3aed&point=ffffff&area=true&hide_border=true" />
-</div>
 
 ---
 
@@ -137,10 +114,4 @@ const biswajit = {
 
 > 💬 *"Code is not just what computers run — it's what ideas become."*
 
-</div>
-
----
-
-<div align="center">
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer)
 </div>
