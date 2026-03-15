@@ -10,9 +10,7 @@
 
 <br/>
 
-<!-- Profile Badges -->
-[![GitHub followers](https://img.shields.io/github/followers/Biswajitdas2006?label=Followers&style=for-the-badge&color=A78BFA&labelColor=0f0c29)](https://github.com/Biswajitdas2006)
-[![Profile Views](https://komarev.com/ghpvc/?username=Biswajitdas2006&style=for-the-badge&color=A78BFA&label=Profile+Views)](https://github.com/Biswajitdas2006)
+
 
 </div>
 
@@ -22,7 +20,6 @@
 
 ```ts
 const biswajit = {
-  location    : "Kolkata, West Bengal 🇮🇳",
   role        : "Full Stack Developer",
   stack       : {
     backend   : [".NET 8", "C#", "ASP.NET Core", "REST APIs"],
@@ -76,6 +73,9 @@ const biswajit = {
 ### 🗄️ Databases & Backend
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![EF Core](https://img.shields.io/badge/Entity_Framework_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
@@ -83,6 +83,7 @@ const biswajit = {
 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
